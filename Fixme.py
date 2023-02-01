@@ -1,4 +1,4 @@
-'''Complete each function below so that the test cases pass.
+'''Complete each functions below so that the test cases pass.
 Your solutions should use the map and filter functions,
 and not fo  loops or list comprehensions. '''
 
