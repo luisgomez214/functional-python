@@ -69,7 +69,7 @@ def small_words(text):
 def squares(n):
     xs = map(lambda n: n * n, range(n + 1))
     xs = list(xs)
-    return(xs)
+    return (xs)
     '''
     Returns a list of all square number between 1 and n inclusive.
     Recall that the nth square number is defined to be n*n.
