@@ -1,6 +1,6 @@
 # Functional Python [![](https://github.com/luisgomez214/functional-python/workflows/tests/badge.svg)](https://github.com/luisgomez214/functional-python/actions?query=workflow%3Atests)
 
-## Instructions 1
+### Instructions 1
 
 1. Fork this repo
 1. Update the `README.md` file so that the urls in the test cases badge point to your forked repo
